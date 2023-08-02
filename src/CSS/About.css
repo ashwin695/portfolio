@@ -1,0 +1,205 @@
+.root{
+    display: flex;
+    flex-direction: row;
+    height: 90.4vh;
+    margin-top: 70px;
+}
+.left{
+    flex: 1px;
+}
+.leftbox{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+.about{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+}
+.name{
+    font-size: 70px;
+    font-weight: 500;
+    font-family: inherit;
+    margin-top: 20%;
+    padding: 10px;
+}
+.intro{
+    font-size: 18px;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600px;
+    color: grey;
+}
+.right{
+    flex: 1px;
+    position: relative;
+}
+.imgbg{
+    clip-path: polygon(100% 0%, 75% 50%, 100% 100%, 25% 100%, 0% 50%, 25% 0%);
+    background-color: #e84393;
+    width: 49vw;
+    height: calc(100%);
+    position: absolute;
+}
+.img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    position: absolute;
+    zoom: 50%;
+}
+.i-scroll{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    bottom: 20px;
+    margin-left: 35%;
+}
+.arrow{
+    display: flex;
+    justify-content: end;
+    padding-top: 15%;
+}
+.arrowblk{
+    animation: arrowBlink 2s infinite;
+}
+@keyframes arrowBlink{
+    100%{
+        opacity: 0%;
+    }
+}
+/********* matches 'matches' ***********************************************/
+.matchesimg{
+    position: absolute;
+    width: 95%;
+    height: 100%;
+
+}
+/********* large 'lg' ******************************************************/
+.lgname{
+    font-size: 55px;
+    font-weight: 500;
+    font-family: inherit;
+    margin-top: 10%;
+    padding: 10px;
+}
+.lgintro{
+    font-size: 18px;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600px;
+    color: grey;
+}
+.lgimgbg{
+    clip-path: polygon(100% 0%, 75% 50%, 100% 100%, 25% 100%, 0% 50%, 25% 0%);
+    background-color: #e84393;
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+}
+.lgimg{
+    width: 90%;
+    height: 105%;
+    object-fit: contain;
+    position: absolute;
+}
+/********* medium 'md' *****************************************************/
+.mroot{
+    display: flex;
+    flex-direction: column;
+    height: 90.4vh;
+    margin-top: 70px;
+}
+.mleft{
+    height: 53vh;
+}
+.mleftbox{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.mname{
+    font-size: 40px;
+    font-weight: 500;
+    font-family: inherit;
+    margin-top: 8%;
+    padding: 10px;
+}
+.mintro{
+    font-size: 20px;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600px;
+    color: grey;
+}
+.mright{
+    height: 40vh;
+    display: flex;
+    justify-content: center;
+}
+.mimgbg{
+    clip-path: polygon(100% 0%, 75% 50%, 100% 100%, 25% 100%, 0% 50%, 25% 0%);
+    background-color: #e84393;
+    width: 100%;
+    height: 40vh;
+    position: absolute;
+}
+.mimg{
+    position: absolute;
+    width: 40%;
+    height: 40vh;
+
+}
+/******** small 'sm' **********************************************/
+.sname{
+    font-size: 30px;
+    font-weight: 500;
+    font-family: inherit;
+    margin-top: 10%;
+    padding: 10px;
+}
+.sintro{
+    font-size: 15px;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600px;
+    color: grey;
+}
+/********* extra small 'xs' ***************************************************/
+.xsname{
+    font-size: 40px;
+    font-weight: 500;
+    font-family: inherit;
+    margin-top: 2%;
+    padding: 10px;
+}
+.xsintro{
+    font-size: 1rem;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600px;
+    color: grey;
+}
+.xsimg{
+    position: absolute;
+    width: 45%;
+    height: 40vh;
+}
+/********* extra extra small 'xxs' ***************************************************/
+.xxsname{
+    font-size: 25px;
+    font-weight: 500;
+    font-family: inherit;
+    margin-top: 1%;
+    padding: 10px;
+}
+.xxsintro{
+    font-size: 0.8rem;
+    padding: 7px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600px;
+    color: grey;
+}

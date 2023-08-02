@@ -1,0 +1,227 @@
+.bg{
+    background-color: rgb(23, 22, 22);
+    width: 100%;
+    height: 160vh;
+    display: flex;
+    text-align: center;
+}
+.contact{
+    font-size: 40px;
+    color: #fe238d;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+}
+.sub1{
+    font-size: 25px;
+    color: #fff;
+    font-weight: 600;
+    padding: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.sub2{
+    font-size: 25px;
+    color: grey;
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+input{
+    width: 70%;
+    height: 40px;
+    border: none;
+    border-bottom: 2px solid #fe238d;
+    margin: 5px 0px;
+    font-size: 14px;
+    padding-left: 10px;
+    background: rgb(23, 22, 22);
+    color: #fff;
+}
+textarea{
+    width: 70%;
+    margin: 5px 0px;
+    font-size: 14px;
+    padding-left: 10px;
+    background: rgb(23, 22, 22);
+    color: #fff;
+    border: none;
+    border-bottom: 2px solid #fe238d;
+}
+input:hover{
+    border-bottom: 2px solid #cf0365;
+}
+textarea:hover{
+    border-bottom: 2px solid #cf0365;
+}
+.sbbtn{
+    width: 72%;
+    height: 6vh;
+    border-radius: 0px;
+    background-color: #fe238d;
+    font-weight: 600;
+    font-size: 17px;
+    letter-spacing: 2px;
+    cursor: pointer;
+}
+.sbbtn:hover{
+    background-color: #e9127a;
+}
+.footer{
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+}
+.ln:hover{
+    color: #fe238d;
+}
+.icon{
+    color: #fff;
+}
+.icon:hover{
+    color: #fe238d;
+}
+/********** large 'lg' *******************************************************************/
+.lgfooter{
+    color: #fff;
+    font-size: 15px;
+    font-weight: 600;
+}
+.lgln:hover{
+    color: #fe238d;
+}
+.lgicon{
+    color: #fff;
+}
+.lgicon:hover{
+    color: #fe238d;
+}
+/****************** medium 'md' ************************************************************/
+.mdcontact{
+    font-size: 36px;
+    color: #fe238d;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+}
+.mdsub1{
+    font-size: 22px;
+    color: #fff;
+    font-weight: 600;
+    padding: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.mdsub2{
+    font-size: 22px;
+    color: grey;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.mdbg{
+    background-color: rgb(23, 22, 22);
+    width: 100%;
+    height: 141vh;
+    display: flex;
+    text-align: center;
+}
+.mdfooter{
+    color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+}
+.mdln:hover{
+    color: #fe238d;
+}
+.mdicon{
+    color: #fff;
+}
+.mdicon:hover{
+    color: #fe238d;
+}
+/*********** small 'sm' *********************************************************/
+.smcontact{
+    font-size: 34px;
+    color: #fe238d;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+}
+.smsub1{
+    font-size: 20px;
+    color: #fff;
+    font-weight: 600;
+    padding: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.smsub2{
+    font-size: 20px;
+    color: grey;
+    padding: 8px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.smbg{
+    background-color: rgb(23, 22, 22);
+    width: 100%;
+    height: 134vh;
+    display: flex;
+    text-align: center;
+}
+.smfooter{
+    color: #fff;
+    font-size: 12px;
+    font-weight: 600;
+}
+.smln:hover{
+    color: #fe238d;
+}
+.smicon{
+    color: #fff;
+}
+.smicon:hover{
+    color: #fe238d;
+}
+/********** small 550 'sm' *****************************************************/
+.sm550footer{
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+}
+.sm550ln:hover{
+    color: #fe238d;
+}
+.sm550icon{
+    color: #fff;
+}
+.sm550icon:hover{
+    color: #fe238d;
+}
+.sm550bg{
+    background-color: rgb(23, 22, 22);
+    width: 100%;
+    height: 123vh;
+    display: flex;
+    text-align: center;
+}
+/********* extra small 'xs' **************************************************************/
+.xscontact{
+    font-size: 28px;
+    color: #fe238d;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+}
+.xssub1{
+    font-size: 15px;
+    color: #fff;
+    font-weight: 600;
+    padding: 12px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.xssub2{
+    font-size: 18px;
+    color: grey;
+    padding: 5px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.xsfooter{
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+}
+.xsln:hover{
+    color: #fe238d;
+}

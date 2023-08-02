@@ -1,0 +1,41 @@
+.head{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+}
+.paper{
+    transition: all 1s ease;
+}
+.paper:hover{
+    transform: scale(1.2);
+}
+/************** medium 'md' **************************************/
+.mdhead{
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+}
+/************** small 'sm' **************************************/
+.smhead{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+}
+/************** extra small 'xs' **************************************/
+.xshead{
+    font-size: 40px;
+    font-family: 'Times New Roman', o, serif;
+    font-weight: 600;
+}
+/************** extra extra small 'xxs' **************************************/
+.xshead{
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+}
+/************** extra extra small 315 'xxs' **************************************/
+.xxs315head{
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+}

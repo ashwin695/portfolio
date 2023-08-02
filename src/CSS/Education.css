@@ -1,0 +1,46 @@
+.educationbox{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+.heading{
+    font-size: 38px;
+    font-weight: 600;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #fff;
+}
+.divi{
+    height: 3px;
+    /* background-color: rgb(203, 203, 203); */
+    background-color: #ffc5c5;
+}
+.edudetail{
+    padding: 15px;
+}
+.detail1{
+    padding: 3px;
+    /* border-bottom: #dddddd solid 2px; */
+}
+.row{
+    display: flex;
+    justify-content: space-between;
+    padding: 2px;
+}
+.year{
+    width: 60px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 600;
+    background-color: #e84393;
+    color: #fff;
+    border-radius: 30px;
+    padding:1px
+}
+.detail2{
+    padding: 3px;
+    /* border-bottom: #dddddd solid 2px; */
+}
+.detail3{
+    padding: 3px;
+    /* border-bottom: #dddddd solid 2px; */
+}

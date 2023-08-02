@@ -1,0 +1,268 @@
+.mid{
+    display: flex;
+    background-color: #dfe6e9;
+    text-align: center;
+    position: relative;
+    width: 100%;
+}
+.edu{
+    font-size: 33px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    color: #000;
+}
+.tit{
+    padding: 20px;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-weight: 600;
+    color: grey;
+}
+.xth{
+    font-size: 22px;
+    font-weight: 500;
+    display: flex;
+    justify-content: end;
+}
+.sub{
+    font-size: 19px;
+    font-weight: 500;
+    color: rgb(164, 161, 161);
+    display: flex;
+    justify-content: end;
+}
+.school{
+    font-size: 22px;
+    font-weight: 500;
+    display: flex;
+    justify-content: start;
+}
+.cntnt{
+    font-size: 18px;
+    font-weight: 500;
+    color: rgb(164, 161, 161);
+    display: flex;
+    text-align: start;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+/************* medium 'md' *************************************/
+.medu{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    color: #000;
+}
+.mtit{
+    padding: 18px;
+    font-size: 18px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-weight: 600;
+    color: grey;
+}
+.mxth{
+    font-size: 20px;
+    font-weight: 500;
+    display: flex;
+    justify-content: end;
+}
+.msub{
+    font-size: 17px;
+    font-weight: 500;
+    color: rgb(164, 161, 161);
+    display: flex;
+    justify-content: end;
+}
+.mschool{
+    font-size: 20px;
+    font-weight: 500;
+    display: flex;
+    justify-content: start;
+}
+.mcntnt{
+    font-size: 17px;
+    font-weight: 500;
+    color: rgb(164, 161, 161);
+    display: flex;
+    text-align: start;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+/************* medium 800 'md' ******************************************/
+.m8edu{
+    font-size: 26px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    color: #000;
+}
+.m8tit{
+    padding: 17px;
+    font-size: 16px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-weight: 600;
+    color: grey;
+}
+.m8xth{
+    font-size: 16px;
+    font-weight: 500;
+    display: flex;
+    justify-content: end;
+}
+.m8sub{
+    font-size: 15px;
+    font-weight: 500;
+    color: rgb(164, 161, 161);
+    display: flex;
+    justify-content: end;
+}
+.m8school{
+    font-size: 16px;
+    font-weight: 500;
+    display: flex;
+    justify-content: start;
+}
+.m8cntnt{
+    font-size: 16px;
+    font-weight: 500;
+    color: rgb(164, 161, 161);
+    display: flex;
+    text-align: start;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+/********** small 650 'sm' *************************************/
+.m6sub{
+    font-size: 14px;
+    font-weight: 500;
+    color: rgb(164, 161, 161);
+    display: flex;
+    justify-content: end;
+}
+.m6cntnt{
+    font-size: 14px;
+    font-weight: 500;
+    color: rgb(164, 161, 161);
+    display: flex;
+    text-align: start;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+/********** small 'sm' *************************************/
+.smedu{
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    color: #000;
+}
+.smtit{
+    padding: 16px;
+    font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-weight: 600;
+    color: grey;
+}
+.smxth{
+    font-size: 14px;
+    font-weight: 500;
+    display: flex;
+    justify-content: end;
+}
+.smsub{
+    font-size: 15px;
+    font-weight: 500;
+    color: rgb(164, 161, 161);
+    display: flex;
+    justify-content: end;
+}
+.smschool{
+    font-size: 14px;
+    font-weight: 500;
+    display: flex;
+    justify-content: start;
+}
+.smcntnt{
+    font-size: 15px;
+    font-weight: 500;
+    color: rgb(164, 161, 161);
+    display: flex;
+    text-align: start;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+/*********** extra small 'xs' ********************************************/
+.xsedu{
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    color: #000;
+}
+.xstit{
+    padding: 16px;
+    font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-weight: 600;
+    color: grey;
+}
+.xsxth{
+    font-size: 14px;
+    font-weight: 500;
+    display: flex;
+    justify-content: end;
+}
+.xssub{
+    font-size: 11.5px;
+    font-weight: 500;
+    color: rgb(164, 161, 161);
+    display: flex;
+    justify-content: end;
+}
+.xsschool{
+    font-size: 13px;
+    font-weight: 500;
+    display: flex;
+    justify-content: start;
+}
+.xscntnt{
+    font-size: 11px;
+    font-weight: 500;
+    color: rgb(164, 161, 161);
+    display: flex;
+    text-align: start;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+/*********** extra extra small 'xxs' ***************************************/
+.xxsedu{
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    color: #000;
+}
+.xxstit{
+    padding: 15px;
+    font-size: 14px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-weight: 600;
+    color: grey;
+}
+.xxsxth{
+    font-size: 13px;
+    font-weight: 500;
+    display: flex;
+    justify-content: end;
+}
+.xxssub{
+    font-size: 11px;
+    font-weight: 500;
+    color: rgb(164, 161, 161);
+    display: flex;
+    justify-content: end;
+}
+.xxsschool{
+    font-size: 12px;
+    font-weight: 500;
+    display: flex;
+    justify-content: start;
+}
+.xxscntnt{
+    font-size: 11px;
+    font-weight: 500;
+    color: rgb(164, 161, 161);
+    display: flex;
+    text-align: start;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
